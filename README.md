@@ -244,7 +244,7 @@ pip install -r requirements.txt
 
 <h2>Recommended Learning Sequence</h2>
 
-<table>
+<table align = "center">
 <tr>
 <th>Phase</th>
 <th>Topics</th>
