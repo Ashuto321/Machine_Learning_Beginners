@@ -23,7 +23,7 @@ mathematics, and implementation behind each concept.
 
 <h2>Learning Roadmap</h2>
 
-<pre>
+<pre align="center">
 Python Fundamentals
         │
         ▼
