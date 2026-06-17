@@ -4,7 +4,7 @@
 A complete beginner-to-intermediate Machine Learning repository designed to help students, aspiring data scientists, and AI enthusiasts master ML concepts through theory, mathematics, practical implementation, and real-world projects.
 </p>
 
-<hr>
+
 
 <h2>Project Overview</h2>
 
@@ -19,7 +19,7 @@ The goal is not only to teach algorithms but also to explain the intuition,
 mathematics, and implementation behind each concept.
 </p>
 
-<hr>
+
 
 <h2>Learning Roadmap</h2>
 
@@ -57,7 +57,7 @@ Projects
 Deployment
 </pre>
 
-<hr>
+
 
 <h2>Repository Architecture</h2>
 
@@ -106,7 +106,7 @@ Machine-Learning-For-Beginners/
 └── README.md
 </pre>
 
-<hr>
+
 
 <h2>Topics Covered</h2>
 
@@ -185,11 +185,11 @@ Machine-Learning-For-Beginners/
 <li>Dimensionality Reduction</li>
 </ul>
 
-<hr>
+
 
 <h2>Machine Learning Workflow</h2>
 
-<pre>
+<pre align="center">
 Collect Data
       │
       ▼
@@ -217,7 +217,7 @@ Hyperparameter Tuning
 Deployment
 </pre>
 
-<hr>
+
 
 <h2>Prerequisites</h2>
 
@@ -228,7 +228,7 @@ Deployment
 <li>Problem Solving Skills</li>
 </ul>
 
-<hr>
+
 
 <h2>Installation</h2>
 
@@ -240,7 +240,7 @@ cd Machine-Learning-For-Beginners
 pip install -r requirements.txt
 </pre>
 
-<hr>
+
 
 <h2>Recommended Learning Sequence</h2>
 
@@ -286,7 +286,7 @@ pip install -r requirements.txt
 </tr>
 </table>
 
-<hr>
+
 
 <h2>Projects Included</h2>
 
@@ -301,7 +301,7 @@ pip install -r requirements.txt
 <li>Heart Disease Prediction</li>
 </ul>
 
-<hr>
+
 
 <h2>Tech Stack</h2>
 
@@ -337,7 +337,7 @@ pip install -r requirements.txt
 </tr>
 </table>
 
-<hr>
+
 
 <h2>Repository Goals</h2>
 
@@ -350,7 +350,7 @@ pip install -r requirements.txt
 <li>Create a strong portfolio</li>
 </ul>
 
-<hr>
+
 
 <h2>Contribution Guidelines</h2>
 
@@ -363,7 +363,7 @@ pip install -r requirements.txt
 <li>Create a Pull Request</li>
 </ol>
 
-<hr>
+
 
 <h2>Resources</h2>
 
@@ -375,7 +375,7 @@ pip install -r requirements.txt
 <li>Machine Learning Research Papers</li>
 </ul>
 
-<hr>
+
 
 <h2>Future Enhancements</h2>
 
@@ -388,7 +388,7 @@ pip install -r requirements.txt
 <li>Large Language Models</li>
 </ul>
 
-<hr>
+
 
 <h2>License</h2>
 
@@ -397,7 +397,7 @@ This repository is released under the MIT License.
 Feel free to use, modify, and distribute the content for educational purposes.
 </p>
 
-<hr>
+
 
 <h2 align="center">Happy Learning and Building Machine Learning Projects</h2>
 
